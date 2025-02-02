@@ -1,5 +1,5 @@
 {
-  "name": "typescript-html5-canvas-starter",
+  "name": "Snake Game",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "serve1": "http-server build",
     "watch": "onchange \"src/**/*.js\" \"src/**/*.ts\" \"src/**/*.tsx\" \"src/**/*.css\" \"src/**/*.html\" \"src/**/*.{png,jpg,gif}\" -- npm run build"
   },
-  "author": "Stephen Dodd",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^13.0.2",
